@@ -15,12 +15,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/darshanbeladiy5" target="blank"><img align="center" src="https://www.iconpacks.net/icons/2/free-twitter-logo-icon-2429-thumb.png" alt="darshanbeladiy5" height="40" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/darshan-beladiya-054075209" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" alt="https://www.linkedin.com/in/darshan-beladiya-054075209" height="40" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/22166637/darshan-beladiya" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2626/2626299.png" alt="https://stackoverflow.com/users/22166637/darshan-beladiya" height="40" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100081305417969&mibextid=zbwkwl" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/free-social-icons/67/facebook_circle_color-512.png" alt="https://www.facebook.com/profile.php?id=100081305417969&mibextid=zbwkwl" height="40" width="40" /></a>
-<a href="https://instagram.com/https://instagram.com/darshan_beladiya_55?igshid=mznlngnkzwq4mg==" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/017/743/717/non_2x/instagram-icon-logo-free-png.png" alt="https://instagram.com/darshan_beladiya_55?igshid=mznlngnkzwq4mg==" height="40" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/darshan_555" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/11960354?v=4" alt="https://www.codechef.com/users/darshan_555" height="40" width="40" /></a>
+  <a href="https://twitter.com/darshanbeladiy5" target="_blank"><img align="center" src="https://www.iconpacks.net/icons/2/free-twitter-logo-icon-2429-thumb.png" alt="darshanbeladiy5" height="40" width="40" /></a>
+  <a href="https://www.linkedin.com/in/darshan-beladiya-054075209" target="_blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" alt="LinkedIn Profile" height="40" width="40" /></a>
+  <a href="https://stackoverflow.com/users/22166637/darshan-beladiya" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2626/2626299.png" alt="Stack Overflow Profile" height="40" width="40" /></a>
+  <a href="https://www.facebook.com/profile.php?id=100081305417969&mibextid=zbwkwl" target="_blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/free-social-icons/67/facebook_circle_color-512.png" alt="Facebook Profile" height="40" width="40" /></a>
+  <a href="https://instagram.com/darshan_beladiya_55?igshid=mznlngnkzwq4mg==" target="_blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/017/743/717/non_2x/instagram-icon-logo-free-png.png" alt="Instagram Profile" height="40" width="40" /></a>
+  <a href="https://www.codechef.com/users/darshan_555" target="_blank"><img align="center" src="https://avatars.githubusercontent.com/u/11960354?v=4" alt="CodeChef Profile" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
